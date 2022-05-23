@@ -3,6 +3,8 @@ from xml.etree.ElementTree import C14NWriterTarget
 from PIL import *
 from random import choice
 from larousse_api import larousse
+# INSTALL LAROUSSE_API WITH:
+# pip install larousse-api-sunbro
 
 #FONCTIONS UTILES
 #Fonction qui permet de générer un mot aléatoirement
